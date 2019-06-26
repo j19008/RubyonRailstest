@@ -7,8 +7,7 @@ Things you may want to cover:
 
 * Ruby version
 
-ruby 2.6.2p47 (2019-03-13 revision 67232) [x86_64_linux]
-
+　ruby version 2.6.2
 * System dependencies
 
 * Configuration
